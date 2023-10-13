@@ -1,6 +1,6 @@
 # RubiksCubeSimulator
-三阶魔方模拟器，可根据真实魔方图片构建魔方状态，可自动复原。  
-A 3x3x3 Rubik's Cube simulator.  Build a cube's state with real shot pictures. Automatical cube solution.
+三阶魔方模拟器，可自动复原，用Java Swing实现图形用户界面。  
+A 3*3*3 Rubik's Cube simulator.  Automatical cube solution. Uses Java Swing to implement a graphical user interface.
 
 ![这是图片](./docs/pics/gui.PNG)  
 
