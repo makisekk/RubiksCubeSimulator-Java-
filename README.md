@@ -3,6 +3,8 @@
 A 3*3*3 Rubik's Cube simulator.  Automatical cube solution. Uses Java Swing to implement a graphical user interface.
 
 ![这是图片](./docs/pics/gui.PNG)  
+## Getting Started
++ run Cube.main()
 
 ## Docs
 + 设计文档.pdf  
