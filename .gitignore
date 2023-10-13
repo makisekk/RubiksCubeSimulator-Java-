@@ -1,6 +1,6 @@
 # ignore these files
 target/
-.idea/
+.src/idea/
 .settings/
 .vscode/
 bin/
